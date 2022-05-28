@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teleporter
+  - Event
+  - moveme
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Blocking
+  - People
+  - overpass
+  - minimap
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: weather
+    uniqueID: 2526563735
+    locked: 0
+  - name: ocean
+    uniqueID: 893138977
+    locked: 0
+  - name: sky
+    uniqueID: 3858748473
+    locked: 0
+  - name: Floor
+    uniqueID: 3575325391
+    locked: 0
+  - name: People
+    uniqueID: 1905706725
+    locked: 0
+  - name: overheads
+    uniqueID: 666425673
+    locked: 0
