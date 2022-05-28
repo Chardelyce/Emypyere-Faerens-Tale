@@ -1,0 +1,2 @@
+# Emypyere-Faerens-Tale
+ Long ago two kingdoms were at war after decades of fighting one was the victor, the other was banished from the land. Embittered from their defeat they unleased a monstrous menace on the kingdom. Centuries later, a Prince arose and conquered the beast. This prince became a king and in time he took for himself a queen and produced a princess.  However, evil has once again overshadowed the land  A lost princess  A distraught king, now a knight from the king’s army bravely goes forth rid the land of the evil menace and unite the kingdoms again. 
